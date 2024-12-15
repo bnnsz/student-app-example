@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "student-app", "student-app\student-app.csproj", "{904E6DCE-35A9-4BC3-856E-8521D25C33D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1F291867-C1D9-49CC-97DD-AE0D5B0D8672}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{904E6DCE-35A9-4BC3-856E-8521D25C33D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904E6DCE-35A9-4BC3-856E-8521D25C33D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904E6DCE-35A9-4BC3-856E-8521D25C33D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904E6DCE-35A9-4BC3-856E-8521D25C33D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
